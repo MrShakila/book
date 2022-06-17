@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508606693712",
+    "project_id": "book-cab3f",
+    "storage_bucket": "book-cab3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508606693712:android:77a377b1ab14cb71ab6c55",
+        "android_client_info": {
+          "package_name": "com.example.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508606693712-ipa3b9jis7ao349ljmq1s3egf56vmnrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG4fsRk_GpHVV0sLadxxsGsH0ZD6vSBao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508606693712-ipa3b9jis7ao349ljmq1s3egf56vmnrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
